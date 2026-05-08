@@ -2,7 +2,7 @@
 
 A Python-based keyboard event logging tool built for educational and cybersecurity learning purposes.
 
-This project captures keyboard input events and stores them locally in a text file for analysis. It was developed as part of a cybersecurity internship task focused on understanding keyboard event handling, file operations, and system-level input monitoring.
+This project captures keyboard input events and stores them locally in a text file for analysis. 
 
 ## Important Note
 
